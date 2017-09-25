@@ -2,4 +2,8 @@
 
 Language : C++
 
-## 
+## Execution
+
+```
+./{EXEFILE}
+```
